@@ -62,7 +62,7 @@
 
 ## 🎒 Образование
 [<img src="/diplom.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/nicsoon1/nicsoon1/refs/heads/main/diplom.png)
-
+[<img src="/diplom1.png" width="280px" hspace="10px" alt="Диплом»">](https://raw.githubusercontent.com/nicsoon1/nicsoon1/refs/heads/main/diplom1.png)
 <br>
 
 ## 🤝 Контакт
